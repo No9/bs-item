@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bs-template-app
+  description: looking at this now
+spec:
+  type: website
+  lifecycle: production
+  owner: no9
